@@ -290,8 +290,10 @@ namespace HalilPazarlamaV3
             if (devammı == "h")
             {
                 Console.WriteLine("Genel toplam = " + toplam);
+                Console.WriteLine("  ");
             }
         }
     }
+    
     
 }
