@@ -1,0 +1,7 @@
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\bin\Debug\HalilPazarlamaV3.exe.config
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\bin\Debug\HalilPazarlamaV3.exe
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\bin\Debug\HalilPazarlamaV3.pdb
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\obj\Debug\HalilPazarlamaV3.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\obj\Debug\HalilPazarlamaV3.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\obj\Debug\HalilPazarlamaV3.exe
+C:\Users\Samsung\source\repos\HalilPazarlamaV3\HalilPazarlamaV3\obj\Debug\HalilPazarlamaV3.pdb
